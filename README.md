@@ -1,0 +1,1 @@
+# comp-fab-artifacts
